@@ -1,8 +1,1 @@
-yfinance
-pandas
-numpy
-scikit-learn
-tensorflow-cpu
-torch
-streamlit
-plotly
+yfinance==0.2.40 pandas==2.0.3 numpy==1.24.4 scikit-learn==1.3.2 tensorflow-cpu==2.14.0 streamlit==1.31.0 plotly==5.18.0
